@@ -15,4 +15,4 @@ Write a SQL query to extract the global data. Export to CSV.
    - Is your city hotter or cooler on average compared to the global average? Has the difference been consistent over time?  
    - “How do the changes in your city’s temperatures over time compare to the changes in the global average?”
    - What does the overall trend look like? Is the world getting hotter or cooler? Has the trend been consistent over the last few hundred years?
-Submission
+
